@@ -14,5 +14,9 @@
 ## 5.Realice un algoritmo que permita obtener la suma de dos números teniendo en cuenta que el primer número  tiene que ser mayor que el segundo y si el resultado de la suma es mayor o igual que 230 se dividirá entre 2. Mostrar resultado.   
 ![image](https://github.com/user-attachments/assets/fb3e116c-c65a-4a21-a9d0-e01fa0742a3d)
 
+## 6.Realice un algoritmo que permita mostrar el día de la semana correspondiente según un número entero  dado. Si el número corresponde al día viernes decir que es fin de semana. i. Ejemplo si escribe 1 decir que es lunes.
+![image](https://github.com/user-attachments/assets/3823a62c-fb3b-47c5-bacf-1b14c00d760d)
+
+
 
 
