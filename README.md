@@ -20,6 +20,10 @@
 ## 7.Dada las horas trabajadas de una persona la tarifa de pago. Calcular su salario. Si su salario supera los dos salarios mínimos legales vigentes, decir que tiene auxilio de transporte. 
 ![image](https://github.com/user-attachments/assets/22276a5c-17b0-4f52-baf9-f46e0f7a2feb)
 
+## 8. Hacer un algoritmo que permita acumular millas de un recorrido en avión. El registro de millas debe de ser en kilómetros; si los kilómetros superan las 10 millas, decir que tiene para acumular millas.  
+![image](https://github.com/user-attachments/assets/a272773a-90a6-4a7a-95dd-41c8f5ec1e58)
+
+
 
 
 
