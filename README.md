@@ -17,6 +17,10 @@
 ## 6.Realice un algoritmo que permita mostrar el día de la semana correspondiente según un número entero  dado. Si el número corresponde al día viernes decir que es fin de semana. i. Ejemplo si escribe 1 decir que es lunes.
 ![image](https://github.com/user-attachments/assets/3823a62c-fb3b-47c5-bacf-1b14c00d760d)
 
+## 7.Dada las horas trabajadas de una persona la tarifa de pago. Calcular su salario. Si su salario supera los dos salarios mínimos legales vigentes, decir que tiene auxilio de transporte. 
+![image](https://github.com/user-attachments/assets/22276a5c-17b0-4f52-baf9-f46e0f7a2feb)
+
+
 
 
 
