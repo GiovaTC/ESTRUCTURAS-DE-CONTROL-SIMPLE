@@ -26,6 +26,21 @@
 ## 9.Hacer un algoritmo que permita sacar el promedio de un estudiante de una materia. Dado que la materia tiene 4 notas  básicas y 2 de profundización, mostrar el promedio de la materia. Si el promedio supera el 2.5% decir que ha  ganado la materia.
 ![image](https://github.com/user-attachments/assets/6e24376b-e6f3-4041-9301-d88ed696f484)
 
+## 10.Un maestro desea saber qué porcentaje de hombres y que porcentaje de mujeres hay en su grupo. 
+### Definición del problema   
+### Calcular porcentaje de hombres y mujeres en un grupo   
+### Análisis del problema   
+### Datos a tener en cuenta:   
+### Número hombres   
+### Número mujeres   
+### Total estudiantes   
+### Porcentaje hombres   
+### Porcentaje mujeres   
+### Datos de entrada: número hombres, número mujeres   
+### Datos salida: porcentaje hombres, porcentaje mujeres
+![image](https://github.com/user-attachments/assets/6be9574e-20fe-48b3-a482-e27180bc84f9)
+
+
 
 
 
