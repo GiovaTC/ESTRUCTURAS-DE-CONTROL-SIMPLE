@@ -23,6 +23,10 @@
 ## 8. Hacer un algoritmo que permita acumular millas de un recorrido en avión. El registro de millas debe de ser en kilómetros; si los kilómetros superan las 10 millas, decir que tiene para acumular millas.  
 ![image](https://github.com/user-attachments/assets/a272773a-90a6-4a7a-95dd-41c8f5ec1e58)
 
+## 9.Hacer un algoritmo que permita sacar el promedio de un estudiante de una materia. Dado que la materia tiene 4 notas  básicas y 2 de profundización, mostrar el promedio de la materia. Si el promedio supera el 2.5% decir que ha  ganado la materia.
+![image](https://github.com/user-attachments/assets/6e24376b-e6f3-4041-9301-d88ed696f484)
+
+
 
 
 
