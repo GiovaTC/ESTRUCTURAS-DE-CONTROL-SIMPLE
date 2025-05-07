@@ -11,4 +11,8 @@
 ## 4.Se desea actualizar el saldo de una cuenta bancaria, a partir de un retiro, si el saldo menos el retiro es mayor a cero, decir que tiene saldo suficiente para seguir retirando.  
 ![image](https://github.com/user-attachments/assets/5b4283b7-ea8d-41e4-95e8-b3e5c9cc771f)
 
+## 5.Realice un algoritmo que permita obtener la suma de dos números teniendo en cuenta que el primer número  tiene que ser mayor que el segundo y si el resultado de la suma es mayor o igual que 230 se dividirá entre 2. Mostrar resultado.   
+![image](https://github.com/user-attachments/assets/fb3e116c-c65a-4a21-a9d0-e01fa0742a3d)
+
+
 
